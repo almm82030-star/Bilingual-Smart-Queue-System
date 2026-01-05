@@ -1,0 +1,9 @@
+
+{
+  "name": "Bilingual Smart Queue System",
+  "description": "A sophisticated queuing and ticketing system with bilingual (Arabic/English) support and high-quality Gemini TTS announcements.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
